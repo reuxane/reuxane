@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:12263a,100:1b4965&height=230&section=header&text=reuxane&fontSize=64&fontColor=e6edf3&animation=twinkling&fontAlignY=40&desc=Backend%20%C2%B7%20Telegram-%D0%B1%D0%BE%D1%82%D1%8B%20%C2%B7%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%C2%B7%20%D0%A2%D1%80%D0%B0%D1%84%D0%B8%D0%BA&descAlignY=64&descSize=17&descColor=8fb8de" width="100%" alt="reuxane"/>
 
-<a href="https://github.com/reuxane">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=6CB6FF&center=true&vCenter=true&width=720&height=40&lines=Разработка+программных+решений+любой+сложности;Telegram-боты+с+аудиторией+до+8+000%2B+пользователей+в+месяц;Парсеры%2C+сервисы+и+автоматизация+процессов;Продвижение+и+привлечение+целевой+аудитории" alt="typing"/>
-</a>
-
-<br/>
-
 [![Telegram](https://img.shields.io/badge/Telegram-@reuxane-1f6feb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reuxane)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=6CB6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=6CB6FF)
@@ -21,6 +15,16 @@
 ## О себе
 
 Разрабатываю программные решения любой сложности: от узкоспециализированных утилит до сервисов, которыми ежемесячно пользуются тысячи людей. Работаю на стыке разработки и продвижения, поэтому проект для меня не заканчивается релизом: я занимаюсь тем, чтобы продукт находил свою аудиторию и стабильно работал под нагрузкой.
+
+<br/>
+
+## Мой стек
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,cs,postgres,sqlite,html,css,git,linux&perline=9&theme=dark" alt="stack"/>
+
+</div>
 
 <br/>
 
@@ -67,7 +71,7 @@
 |:-------|:-----------------:|:------:|
 | **BeastScript** | **8 000+** | [@BeastScript1_bot](https://t.me/BeastScript1_bot) |
 | **KomboScripts** | **3 800+** | [@komboscripts_bot](https://t.me/komboscripts_bot) |
-| **Emenstobot** | **3 000+** | [@emenstobot](https://t.me/emenstobot) |
+| **Emenstubot** | **3 000+** | [@emenstubot](https://t.me/emenstubot) |
 
 </div>
 
@@ -83,16 +87,6 @@
 - **Сайт-визитка под ключ.** Полный цикл: от проектирования до публикации.
 - **Маркетплейс.** Участие в создании полноценной торговой платформы.
 - **Мессенджер.** Участие в разработке системы обмена сообщениями.
-
-<br/>
-
-## Технологический стек
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,cs,postgres,sqlite,html,css,git,linux&perline=9&theme=dark" alt="stack"/>
-
-</div>
 
 <br/>
 
