@@ -97,10 +97,6 @@
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=reuxane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6CB6FF&icon_color=6CB6FF" alt="stats"/>
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuxane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6CB6FF" alt="languages"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reuxane&theme=react-dark&hide_border=true&bg_color=0d1117&color=6CB6FF&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb" width="100%" alt="activity"/>
-
 </div>
 
 <br/>
