@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:12263a,100:1b4965&height=230&section=header&text=reuxane&fontSize=64&fontColor=e6edf3&animation=twinkling&fontAlignY=40&desc=Backend%20%C2%B7%20Telegram-%D0%B1%D0%BE%D1%82%D1%8B%20%C2%B7%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%C2%B7%20%D0%A2%D1%80%D0%B0%D1%84%D0%B8%D0%BA&descAlignY=64&descSize=17&descColor=8fb8de" width="100%" alt="reuxane"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:12263a,100:1b4965&height=230&section=header&text=reuxane&fontSize=64&fontColor=e6edf3&animation=twinkling&fontAlignY=40&desc=Fullstack%20%C2%B7%20DevOps%20%C2%B7%20AI%20Engineer&descAlignY=64&descSize=17&descColor=8fb8de" width="100%" alt="reuxane"/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@reuxane-1f6feb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reuxane)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=6CB6FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=6CB6FF)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=6CB6FF)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=6CB6FF)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=6CB6FF)
 
 </div>
 
 <br/>
 
 ## О себе
+
+**Fullstack-разработчик · DevOps-инженер · AI Engineer**
 
 Разрабатываю программные решения любой сложности: от узкоспециализированных утилит до сервисов, которыми ежемесячно пользуются тысячи людей. Работаю на стыке разработки и продвижения, поэтому проект для меня не заканчивается релизом: я занимаюсь тем, чтобы продукт находил свою аудиторию и стабильно работал под нагрузкой.
 
@@ -22,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cs,postgres,sqlite,html,css,git,linux&perline=9&theme=dark" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=python,js,cs,postgres,sqlite,html,css,docker,git,linux&perline=10&theme=dark" alt="stack"/>
 
 </div>
 
