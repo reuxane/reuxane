@@ -1,0 +1,121 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:12263a,100:1b4965&height=230&section=header&text=reuxane&fontSize=64&fontColor=e6edf3&animation=twinkling&fontAlignY=40&desc=Fullstack%20%C2%B7%20DevOps%20%C2%B7%20AI%20Engineer&descAlignY=64&descSize=17&descColor=8fb8de" width="100%" alt="reuxane"/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@reuxane-1f6feb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reuxane)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=6CB6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=6CB6FF)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=6CB6FF)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=6CB6FF)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=6CB6FF)
+
+<br/>
+
+<sub><a href="README.md">English</a> · <b>Русский</b> · <a href="README.uk.md">Українська</a></sub>
+
+</div>
+
+<br/>
+
+## О себе
+
+**Fullstack-разработчик · DevOps-инженер · AI Engineer**
+
+Разрабатываю программные решения любой сложности: от узкоспециализированных утилит до сервисов, которыми ежемесячно пользуются тысячи людей. Работаю на стыке разработки и продвижения, поэтому проект для меня не заканчивается релизом: я занимаюсь тем, чтобы продукт находил свою аудиторию и стабильно работал под нагрузкой.
+
+<br/>
+
+## Мой стек
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,cs,postgres,sqlite,html,css,docker,git,linux&perline=10&theme=dark" alt="stack"/>
+
+</div>
+
+<br/>
+
+## Направления работы
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Разработка Telegram-ботов
+Проектирую и реализую ботов под конкретную задачу: от продуманной логики диалогов и работы с базами данных до интеграции с внешними сервисами и дальнейшего сопровождения. Опыт включает проекты с многотысячной ежемесячной аудиторией.
+
+</td>
+<td width="50%" valign="top">
+
+### Парсеры и обработка данных
+Сбор данных с веб-ресурсов, их очистка, структурирование и приведение к удобному для использования виду. Подход к парсингу строится на устойчивости к изменениям источника и корректной обработке ошибок.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Веб-разработка
+Создание сайтов-визиток под ключ: от структуры и адаптивной вёрстки до запуска. Участие в разработке крупных веб-проектов, включая полноценный маркетплейс.
+
+</td>
+<td width="50%" valign="top">
+
+### Трафик и рекламные интеграции
+Продвижение проектов и привлечение целевой аудитории: подбор каналов, организация рекламных интеграций и работа с метриками, чтобы результат был измеримым.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Проекты
+
+<div align="center">
+
+| Проект | Аудитория в месяц | Ссылка |
+|:-------|:-----------------:|:------:|
+| **BeastScript** | **8 000+** | [@BeastScript1_bot](https://t.me/BeastScript1_bot) |
+| **KomboScripts** | **3 800+** | [@komboscripts_bot](https://t.me/komboscripts_bot) |
+| **Emenstubot** | **3 000+** | [@emenstubot](https://t.me/emenstubot) |
+
+</div>
+
+<br/>
+
+## Опыт и портфолио
+
+Реализованные проекты различной направленности:
+
+- **Боты для анонимного обмена сообщениями.** Сервисы для общения между пользователями с сохранением анонимности собеседников.
+- **Парсеры.** Автоматизированный сбор и структурирование данных с веб-ресурсов.
+- **Развитие ботов [@Kenny_scriptsbot](https://t.me/Kenny_scriptsbot) и [@Nekowebbot](https://t.me/Nekowebbot).** Участие в доработке функциональности и росте проектов.
+- **Сайт-визитка под ключ.** Полный цикл: от проектирования до публикации.
+- **Маркетплейс.** Участие в создании полноценной торговой платформы.
+- **Мессенджер.** Участие в разработке системы обмена сообщениями.
+
+<br/>
+
+## Статистика
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=reuxane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6CB6FF&icon_color=6CB6FF" alt="stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuxane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6CB6FF" alt="languages"/>
+
+</div>
+
+<br/>
+
+## Контакты
+
+Для сотрудничества и по всем вопросам:
+
+<div align="center">
+
+[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-@reuxane-1f6feb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reuxane)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4965,50:12263a,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+
+</div>
