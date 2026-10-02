@@ -9,19 +9,23 @@
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=6CB6FF)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=6CB6FF)
 
+<br/>
+
+<sub><b>English</b> · <a href="README.ru.md">Русский</a> · <a href="README.uk.md">Українська</a></sub>
+
 </div>
 
 <br/>
 
-## О себе
+## About
 
-**Fullstack-разработчик · DevOps-инженер · AI Engineer**
+**Fullstack Developer · DevOps Engineer · AI Engineer**
 
-Разрабатываю программные решения любой сложности: от узкоспециализированных утилит до сервисов, которыми ежемесячно пользуются тысячи людей. Работаю на стыке разработки и продвижения, поэтому проект для меня не заканчивается релизом: я занимаюсь тем, чтобы продукт находил свою аудиторию и стабильно работал под нагрузкой.
+I build software solutions of any complexity, from narrowly focused utilities to services used by thousands of people every month. I work at the intersection of development and promotion, so for me a project does not end at release: I make sure the product finds its audience and runs reliably under load.
 
 <br/>
 
-## Мой стек
+## My Stack
 
 <div align="center">
 
@@ -31,34 +35,34 @@
 
 <br/>
 
-## Направления работы
+## What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Разработка Telegram-ботов
-Проектирую и реализую ботов под конкретную задачу: от продуманной логики диалогов и работы с базами данных до интеграции с внешними сервисами и дальнейшего сопровождения. Опыт включает проекты с многотысячной ежемесячной аудиторией.
+### Telegram Bot Development
+I design and build bots for specific tasks: from well-thought-out dialogue logic and database work to integrations with external services and ongoing support. My experience includes projects with audiences of thousands of users per month.
 
 </td>
 <td width="50%" valign="top">
 
-### Парсеры и обработка данных
-Сбор данных с веб-ресурсов, их очистка, структурирование и приведение к удобному для использования виду. Подход к парсингу строится на устойчивости к изменениям источника и корректной обработке ошибок.
+### Parsers and Data Processing
+Collecting data from web resources, cleaning it, structuring it and turning it into a form that is ready to use. My approach to parsing focuses on resilience to source changes and proper error handling.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Веб-разработка
-Создание сайтов-визиток под ключ: от структуры и адаптивной вёрстки до запуска. Участие в разработке крупных веб-проектов, включая полноценный маркетплейс.
+### Web Development
+Turnkey business-card websites: from structure and responsive layout to launch. Participation in large web projects, including a full-featured marketplace.
 
 </td>
 <td width="50%" valign="top">
 
-### Трафик и рекламные интеграции
-Продвижение проектов и привлечение целевой аудитории: подбор каналов, организация рекламных интеграций и работа с метриками, чтобы результат был измеримым.
+### Traffic and Ad Integrations
+Promoting projects and attracting a target audience: choosing channels, organizing ad integrations and working with metrics so that results are measurable.
 
 </td>
 </tr>
@@ -66,11 +70,11 @@
 
 <br/>
 
-## Проекты
+## Projects
 
 <div align="center">
 
-| Проект | Аудитория в месяц | Ссылка |
+| Project | Monthly audience | Link |
 |:-------|:-----------------:|:------:|
 | **BeastScript** | **8 000+** | [@BeastScript1_bot](https://t.me/BeastScript1_bot) |
 | **KomboScripts** | **3 800+** | [@komboscripts_bot](https://t.me/komboscripts_bot) |
@@ -80,20 +84,20 @@
 
 <br/>
 
-## Опыт и портфолио
+## Experience and Portfolio
 
-Реализованные проекты различной направленности:
+Delivered projects of various kinds:
 
-- **Боты для анонимного обмена сообщениями.** Сервисы для общения между пользователями с сохранением анонимности собеседников.
-- **Парсеры.** Автоматизированный сбор и структурирование данных с веб-ресурсов.
-- **Развитие ботов [@Kenny_scriptsbot](https://t.me/Kenny_scriptsbot) и [@Nekowebbot](https://t.me/Nekowebbot).** Участие в доработке функциональности и росте проектов.
-- **Сайт-визитка под ключ.** Полный цикл: от проектирования до публикации.
-- **Маркетплейс.** Участие в создании полноценной торговой платформы.
-- **Мессенджер.** Участие в разработке системы обмена сообщениями.
+- **Anonymous messaging bots.** Services for communication between users that keep participants anonymous.
+- **Parsers.** Automated collection and structuring of data from web resources.
+- **Development of [@Kenny_scriptsbot](https://t.me/Kenny_scriptsbot) and [@Nekowebbot](https://t.me/Nekowebbot).** Contributed to improving functionality and growing the projects.
+- **Business-card website, turnkey.** The full cycle from design to publication.
+- **Marketplace.** Participated in building a full-featured trading platform.
+- **Messenger.** Participated in developing a messaging system.
 
 <br/>
 
-## Статистика
+## Statistics
 
 <div align="center">
 
@@ -104,13 +108,13 @@
 
 <br/>
 
-## Контакты
+## Contact
 
-Для сотрудничества и по всем вопросам:
+For collaboration and any questions:
 
 <div align="center">
 
-[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-@reuxane-1f6feb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reuxane)
+[![Write on Telegram](https://img.shields.io/badge/Write_on_Telegram-@reuxane-1f6feb?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reuxane)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4965,50:12263a,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
